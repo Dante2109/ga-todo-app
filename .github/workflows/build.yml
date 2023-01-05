@@ -25,7 +25,7 @@ jobs:
       - name: Build Project
         run: npm run build
       - name: Upload Art
-        uses: actions/upload-pages-artifecdct@v1
+        uses: actions/upload-pages-artifact@v1
         with:
           path: ./build
   deploy:
