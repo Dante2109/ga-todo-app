@@ -1,5 +1,5 @@
 
-name: Github Action No. 1
+name: Github Action No. 2
 
 on:
   push:
